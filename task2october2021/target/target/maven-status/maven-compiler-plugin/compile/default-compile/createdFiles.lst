@@ -1,0 +1,10 @@
+october\automation\pages\ProfilePage.class
+utils\DataUtility.class
+qaautomation\october2021\App.class
+utils\APIUtility.class
+october\automation\pages\BasePage.class
+restassured\apis\APIEndpoints.class
+october\automation\pages\CommonPage.class
+utils\TestUtility.class
+restassured\apis\JsonPaths.class
+october\automation\pages\LoginPage.class

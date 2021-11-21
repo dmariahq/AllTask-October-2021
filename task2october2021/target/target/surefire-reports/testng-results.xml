@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21711" started-at="2021-11-07T03:13:18Z" finished-at="2021-11-07T03:13:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21711" started-at="2021-11-07T03:13:18Z" finished-at="2021-11-07T03:13:40Z">
+      <class name="qaautomation.october2021.APITest">
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="login" is-config="true" duration-ms="6882" started-at="2021-11-07T03:13:18Z" finished-at="2021-11-07T03:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="fakerTest()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="fakerTest" duration-ms="309" started-at="2021-11-07T03:13:25Z" finished-at="2021-11-07T03:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakerTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="login" is-config="true" duration-ms="1797" started-at="2021-11-07T03:13:25Z" finished-at="2021-11-07T03:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="invalidCredTest()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="invalidCredTest" duration-ms="1435" started-at="2021-11-07T03:13:27Z" finished-at="2021-11-07T03:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="login" is-config="true" duration-ms="1808" started-at="2021-11-07T03:13:29Z" finished-at="2021-11-07T03:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testConfig()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="testConfig" duration-ms="1431" started-at="2021-11-07T03:13:31Z" finished-at="2021-11-07T03:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConfig -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="login" is-config="true" duration-ms="1843" started-at="2021-11-07T03:13:32Z" finished-at="2021-11-07T03:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testDashboard()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="testDashboard" duration-ms="2522" started-at="2021-11-07T03:13:34Z" finished-at="2021-11-07T03:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDashboard -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="login" is-config="true" duration-ms="1691" started-at="2021-11-07T03:13:36Z" finished-at="2021-11-07T03:13:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testUser()[pri:0, instance:qaautomation.october2021.APITest@119cbf96]" name="testUser" duration-ms="1790" started-at="2021-11-07T03:13:38Z" finished-at="2021-11-07T03:13:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUser -->
+      </class> <!-- qaautomation.october2021.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
